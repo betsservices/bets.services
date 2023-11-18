@@ -10,8 +10,7 @@ export const metadata: Metadata = {
     template: '%s - Bets Services',
     default: 'Bets Services - Online Bahis Yazılımları',
   },
-  description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+  description: 'Bets Services, Betco entegreli online bahis yazılımları geliştiren bir yazılım şirketidir.',
 }
 
 const inter = Inter({
