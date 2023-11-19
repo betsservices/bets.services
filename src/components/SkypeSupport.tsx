@@ -18,10 +18,10 @@ export default function Button() {
           gradientUnits="userSpaceOnUse"
           spreadMethod="reflect"
         >
-          <stop offset="0" stop-color="#afeeff" />
-          <stop offset=".193" stop-color="#bbf1ff" />
-          <stop offset=".703" stop-color="#d7f8ff" />
-          <stop offset="1" stop-color="#e1faff" />
+          <stop offset="0" stopColor="#afeeff" />
+          <stop offset=".193" stopColor="#bbf1ff" />
+          <stop offset=".703" stopColor="#d7f8ff" />
+          <stop offset="1" stopColor="#e1faff" />
         </radialGradient>
         <path
           fill="url(#i9XPGrB2gyN3qVjYck37sa)"
@@ -36,11 +36,11 @@ export default function Button() {
           gradientUnits="userSpaceOnUse"
           spreadMethod="reflect"
         >
-          <stop offset="0" stop-color="#155cde" />
-          <stop offset=".278" stop-color="#1f7fe5" />
-          <stop offset=".569" stop-color="#279ceb" />
-          <stop offset=".82" stop-color="#2cafef" />
-          <stop offset="1" stop-color="#2eb5f0" />
+          <stop offset="0" stopColor="#155cde" />
+          <stop offset=".278" stopColor="#1f7fe5" />
+          <stop offset=".569" stopColor="#279ceb" />
+          <stop offset=".82" stopColor="#2cafef" />
+          <stop offset="1" stopColor="#2eb5f0" />
         </linearGradient>
         <path
           fill="url(#i9XPGrB2gyN3qVjYck37sb)"
